@@ -6,13 +6,13 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
-decouple = "*"
 pillow = "*"
 pygments = "*"
 django-rest-swagger = "*"
 drf-yasg = {extras = ["validation"], version = "*"}
 djangorestframework-simplejwt = "*"
 pytest-django = "*"
+python-decouple = "*"
 
 [dev-packages]
 
